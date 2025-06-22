@@ -3,7 +3,7 @@ Here's the formatted version:
 
 ---
 
-**Project ID:** #CC69842
+**Project ID:** #CC69851
 
 **Project Title:** Crop Disease Identification Internship
 
@@ -13,11 +13,11 @@ Here's the formatted version:
 
 **Assigned By:** CodeClause Internship
 
-**Assigned To:** KRITIKA RAJ
+**Assigned To:** SURAJ KUMAR
 
-**Start Date:** 1st AUG
+**Start Date:** 1st JUNE
 
-**End Date:** 31th AUG 
+**End Date:** 30th JUNE
 
 **Project Details:**
 
