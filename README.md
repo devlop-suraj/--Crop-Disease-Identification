@@ -11,8 +11,6 @@ Here's the formatted version:
 
 **Project Level:** Golden Level
 
-**Assigned By:** CodeClause Internship
-
 **Assigned To:** SURAJ KUMAR
 
 **Start Date:** 1st JUNE
